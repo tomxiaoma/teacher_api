@@ -1,0 +1,13 @@
+{
+  "phone": {
+    "phone": "15900796431"
+  },
+  "login": {
+    "phone": "15900796431",
+    "password": "123123"
+  },
+  "gr":{
+    "query": "query a { studentAttendanceStatistic(studentId: 290803, startDate: \"20190909\", endDate: \"20191020\" ) { student{ id name } } }",
+    "variables": ""
+  }
+}

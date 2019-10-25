@@ -1,0 +1,21 @@
+
+#配置发送邮件
+#邮件服务
+email_host: smtp.exmail.qq.com
+#发送用户
+send_user: mawentao@kid17.com
+#用户密码
+password: mwt2832018TAO
+
+#测试报告标题
+title: kid17接口报告
+#发送邮件人
+send_name: 一起长大
+#接收人
+receive_user_list:
+  - 545736616@qq.com
+  - 419114040@qq.com
+  - 379488558@qq.com
+
+
+
